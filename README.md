@@ -1,5 +1,4 @@
-# Ruby-on-Rails
-Ruby Programming Language
+# Home Authenticator
+Authenticator
 
-# 1.Code
-Outlines basic ruby syntax to be used in creating later projects
+The program takes in input from the user and compares password parameters, on successfull authentication the user object is returned.
