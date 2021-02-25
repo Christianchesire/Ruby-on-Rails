@@ -3,10 +3,15 @@
 # program applications
 
 class Student
+<<<<<<< HEAD
   # attr_accessor provides getter and setter functionality
   attr_accessor :first_name, :last_name, :email, :username, :password
    
   # Key initialize method
+=======
+  attr_accessor :first_name, :last_name, :email, :username, :password
+   
+>>>>>>> 0f348859fd3700005d7b6ac9b8db0ec3216878f5
   def initialize(firstname, lastname, username, email, password)
     @first_name = firstname
     @last_name = lastname
